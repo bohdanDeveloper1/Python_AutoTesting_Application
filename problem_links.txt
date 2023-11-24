@@ -1,0 +1,7 @@
+https://www.multiprojekt.pl/promocje-i-wyprzedaze/ - Status code: N/A - Reason - Exception - is a broken link because of an undefined exception
+https://www.multiprojekt.pl/katalog - Status code: 301 - Response - Moved Permanently
+https://www.multiprojekt.pl/wyprzedaze/ - Status code: N/A - Reason - Exception - is a broken link because of an undefined exception
+https://www.multiprojekt.pl/promocje-i-wyprzedaze/promocje/ - Status code: N/A - Reason - Exception - is a broken link because of an undefined exception
+
+після лінку: https://www.multiprojekt.pl/kontakt-krakow/ - OK
+An error occurred: name 'StaleElementReferenceException' is not defined
