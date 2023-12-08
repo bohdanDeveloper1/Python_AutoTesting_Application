@@ -1,0 +1,4 @@
+https://www.linkedin.com/company/multiprojekt/ - Request denied, parent url is: https://www.multiprojekt.pl 
+https://www.multiprojekt.pl - exception No connection adapters were found for 'avascript:;'
+https://www.linkedin.com/company/multiprojekt/ - Request denied, parent url is: https://www.multiprojekt.pl/ 
+https://www.multiprojekt.pl/ - exception No connection adapters were found for 'avascript:;'

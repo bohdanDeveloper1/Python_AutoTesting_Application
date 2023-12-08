@@ -1,232 +1,2000 @@
-https://www.linkedin.com/company/multiprojekt/ - Status code: 999 - Response - Request denied
-exception with avascript:;: No connection adapters were found for 'avascript:;'
-https://multiprojekt.clickmeeting.com/cyfrowy-blizniak-czym-jest-technologia-digital-twin-?utm_medium=baner&utm_source=strona+www&utm_campaign=Webinar+Cyfrowy+Bli%C5%BAniak+ - Status code: 410 - Response - Gone
-https://copleycontrols.com/en/ - Status code: 403 - Response - Forbidden
-exception with /globalw/: Invalid URL '/globalw/': No scheme supplied. Perhaps you meant https:///globalw/?
-exception with https://www.estuneurope.eu/: HTTPSConnectionPool(host='www.estuneurope.eu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
-https://www.multiprojekt.pl/technika-napedowa/serwonapedy-liniowe-i-liniowo-obrotowe/silniki-ze-stali-nierdzewnej/ - exception Message: no such element: No node with given id found
-  (Session info: chrome=119.0.6045.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+https://www.linkedin.com/company/multiprojekt/ - status - 999, problem during checkLinkStatus, parent is https://www.multiprojekt.pl
+exception during finding urls in https://www.multiprojekt.pl/nowosci/: Message: no such window: target window already closed
+from unknown error: web view not found
+  ultiprojekt.pl/nowosci/
+avascript:; exception: No connection adapters were found for 'avascript:;', parent is https://www.multiprojekt.pl
+exception during finding urls in https://www.multiprojekt.pl/komunikacja-przemyslowa/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
 Stacktrace:
-	GetHandleVerifier [0x00007FF6912382B2+55298]
-	(No symbol) [0x00007FF6911A5E02]
-	(No symbol) [0x00007FF6910605AB]
-	(No symbol) [0x00007FF69104EF89]
-	(No symbol) [0x00007FF69104D041]
-	(No symbol) [0x00007FF69104D9CE]
-	(No symbol) [0x00007FF69104D900]
-	(No symbol) [0x00007FF69106E706]
-	(No symbol) [0x00007FF6910659E9]
-	(No symbol) [0x00007FF691065AF3]
-	(No symbol) [0x00007FF691064298]
-	(No symbol) [0x00007FF69106732A]
-	(No symbol) [0x00007FF6910DB12B]
-	(No symbol) [0x00007FF6910C20AA]
-	(No symbol) [0x00007FF6910DAAA4]
-	(No symbol) [0x00007FF6910C1E83]
-	(No symbol) [0x00007FF69109670A]
-	(No symbol) [0x00007FF691097964]
-	GetHandleVerifier [0x00007FF6915B0AAB+3694587]
-	GetHandleVerifier [0x00007FF69160728E+4048862]
-	GetHandleVerifier [0x00007FF6915FF173+4015811]
-	GetHandleVerifier [0x00007FF6912D47D6+695590]
-	(No symbol) [0x00007FF6911B0CE8]
-	(No symbol) [0x00007FF6911ACF34]
-	(No symbol) [0x00007FF6911AD062]
-	(No symbol) [0x00007FF69119D3A3]
-	BaseThreadInitThunk [0x00007FFB88F97344+20]
-	RtlUserThreadStart [0x00007FFB8A4E26B1+33]
-
-exception with None: Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
-https://ftp.multiprojekt.pl/weintek_hmi/Weintek_Katalog_PL_2020-02.pdf - Status code: 404 - Response - Not Found
-https://www.triomotion.uk/public/home.php - Status code: 404 - Response - Not Found
-https://ftp.multiprojekt.pl/trio_motion/trio_kontrolery/Trio_Katalog_PL_2020-05.pdf - Status code: 404 - Response - Not Found
-https://www.multiprojekt.pl/komunikacja-przemyslowa/panele-operatorskie-hmi/seria-cmt/ - Status code: 404 - Response - Not Found
-https://ftp.multiprojekt.pl/estun_serwonapedy/katalogi/Katalog%20ogolny%20ESTUN%20PL%202022.pdf - Status code: 404 - Response - Not Found
-https://ftp.multiprojekt.pl/trio_motion/trio_serwonapedy/trio_serwonapedy_katalogi/Katalog%20ogolny%20DX4%20ENG%20V2.pdf - Status code: 404 - Response - Not Found
-https://ftp.multiprojekt.pl/copley_napedy/2018-Copley-Controls-Industrial-Brochure.pdf - Status code: 404 - Response - Not Found
-https://ftp.multiprojekt.pl/silniki_krokowe/stepper_motor_EN.pdf - Status code: 404 - Response - Not Found
-https://ftp.multiprojekt.pl/micno_falowniki/Micno_Katalog_PL_2020-02.pdf - Status code: 404 - Response - Not Found
-https://ftp.multiprojekt.pl/silniki_krokowe/KATALOG_silniki_krokowe_EN.pdf - Status code: 404 - Response - Not Found
-https://ftp.multiprojekt.pl/hiwin_mechanika/mechanizmy_srubowo_toczne/mechanizmy_srubowo_toczne%20BS_01_2_PL_1305_K_PL.pdf - Status code: 404 - Response - Not Found
-https://www.multiprojekt.pl/wp-content/uploads/2023/05/Regulamin-promocji-FATEK-seria-B1-1-1.pdf - exception Message: 
-
-https://www.multiprojekt.pl/wp-content/uploads/2023/07/Wyjazd-Czorsztyn-2022-024.jpg - exception Message: 
-
-https://www.multiprojekt.pl/wp-content/uploads/2023/07/Wyjazd-Czorsztyn-2022-079-1-e1690463610986.jpg - exception Message: 
-
-https://www.multiprojekt.pl/wp-content/uploads/2023/07/Dzie%C5%84-Dziecka-2022-1-e1690463580952.jpg - exception Message: 
-
-https://www.multiprojekt.pl/wp-content/uploads/2023/07/MicrosoftTeams-image-9.jpg - exception Message: 
-
-exception with mailto:praca@multiprojekt.pl: No connection adapters were found for 'mailto:praca@multiprojekt.pl'
-https://pl.linkedin.com/company/multiprojekt - Status code: 999 - Response - Request denied
-exception with mailto:szkolenia@multiprojekt.pl: No connection adapters were found for 'mailto:szkolenia@multiprojekt.pl'
-https://multiprojekt.clickmeeting.com/test-mpa - Status code: 410 - Response - Gone
-https://multiprojekt.clickmeeting.com/cyfrowy-blizniak-czym-jest-technologia-digital-twin- - Status code: 410 - Response - Gone
-exception with tel:505 251 486: No connection adapters were found for 'tel:505 251 486'
-exception with tel:+12 413 90 58: No connection adapters were found for 'tel:+12 413 90 58'
-exception with mailto:atekielski@multiprojekt.pl: No connection adapters were found for 'mailto:atekielski@multiprojekt.pl'
-exception with tel:533 326 928: No connection adapters were found for 'tel:533 326 928'
-exception with mailto:mskowronek@multiprojekt.pl: No connection adapters were found for 'mailto:mskowronek@multiprojekt.pl'
-exception with tel:517 094 890: No connection adapters were found for 'tel:517 094 890'
-exception with mailto:%20pmocak@multiprojekt.pl: No connection adapters were found for 'mailto:%20pmocak@multiprojekt.pl'
-exception with tel:501 061 866: No connection adapters were found for 'tel:501 061 866'
-exception with mailto:twitek@multiprojekt.pl: No connection adapters were found for 'mailto:twitek@multiprojekt.pl'
-exception with tel:503 142 886: No connection adapters were found for 'tel:503 142 886'
-exception with mailto:msakowicz@multiprojekt.pl: No connection adapters were found for 'mailto:msakowicz@multiprojekt.pl'
-exception with tel:515 237 993: No connection adapters were found for 'tel:515 237 993'
-exception with mailto:tplecha@multiprojekt.pl: No connection adapters were found for 'mailto:tplecha@multiprojekt.pl'
-exception with tel:690 000 165: No connection adapters were found for 'tel:690 000 165'
-exception with mailto:pbryk@multiprojekt.pl: No connection adapters were found for 'mailto:pbryk@multiprojekt.pl'
-exception with tel:690 010 094: No connection adapters were found for 'tel:690 010 094'
-exception with mailto:ksanecki@multiprojekt.pl: No connection adapters were found for 'mailto:ksanecki@multiprojekt.pl'
-exception with tel:508 389 358: No connection adapters were found for 'tel:508 389 358'
-exception with mailto:ktylutki@multiprojekt.pl: No connection adapters were found for 'mailto:ktylutki@multiprojekt.pl'
-exception with tel:501 859 681: No connection adapters were found for 'tel:501 859 681'
-exception with mailto:jpawelek@multiprojekt.pl: No connection adapters were found for 'mailto:jpawelek@multiprojekt.pl'
-exception with tel:690 013 955: No connection adapters were found for 'tel:690 013 955'
-exception with mailto:pwilk@multiprojekt.pl: No connection adapters were found for 'mailto:pwilk@multiprojekt.pl'
-exception with tel:500 013 700: No connection adapters were found for 'tel:500 013 700'
-exception with mailto:rhacia@multiprojekt.pl: No connection adapters were found for 'mailto:rhacia@multiprojekt.pl'
-exception with tel:533 306 448: No connection adapters were found for 'tel:533 306 448'
-exception with mailto:%20mrogowski@multiprojekt.pl: No connection adapters were found for 'mailto:%20mrogowski@multiprojekt.pl'
-exception with tel:504 140 211: No connection adapters were found for 'tel:504 140 211'
-exception with mailto:kbodaj@multiprojekt.pl: No connection adapters were found for 'mailto:kbodaj@multiprojekt.pl'
-exception with tel:518 707 266: No connection adapters were found for 'tel:518 707 266'
-exception with mailto:sklapczuk@multiprojekt.pl: No connection adapters were found for 'mailto:sklapczuk@multiprojekt.pl'
-exception with tel:504 796 145: No connection adapters were found for 'tel:504 796 145'
-exception with mailto:mjuras@multiprojekt.pl: No connection adapters were found for 'mailto:mjuras@multiprojekt.pl'
-exception with tel:690 006 337: No connection adapters were found for 'tel:690 006 337'
-exception with mailto:agajos@multiprojekt.pl: No connection adapters were found for 'mailto:agajos@multiprojekt.pl'
-exception with mailto:sekretariat@multiprojekt.pl: No connection adapters were found for 'mailto:sekretariat@multiprojekt.pl'
-exception with tel:501 519 616: No connection adapters were found for 'tel:501 519 616'
-exception with mailto:kgolab@multiprojekt.pl: No connection adapters were found for 'mailto:kgolab@multiprojekt.pl'
-exception with tel:+124139058: No connection adapters were found for 'tel:+124139058'
-https://neura-robotics.com/cognitive-robots-the-new-era-of-true-collaboration - Status code: 403 - Response - Forbidden
-https://www.multiprojekt.pl/wp-content/uploads/2023/11/MicrosoftTeams-image-29-scaled.jpg - exception Message: 
-
-https://www.multiprojekt.pl/wp-content/uploads/2023/11/MicrosoftTeams-image-30-scaled.jpg - exception Message: 
-
-https://www.multiprojekt.pl/wp-content/uploads/2023/11/MicrosoftTeams-image-40-scaled.jpg - exception Message: 
-
-https://www.multiprojekt.pl/wp-content/uploads/2023/11/MicrosoftTeams-image-41-scaled.jpg - exception Message: 
-
-https://www.multiprojekt.pl/wp-content/uploads/2023/11/MicrosoftTeams-image-34-scaled.jpg - exception Message: 
-
-https://www.multiprojekt.pl/wp-content/uploads/2023/11/MicrosoftTeams-image-36-scaled.jpg - exception Message: 
-
-https://www.multiprojekt.pl/wp-content/uploads/2023/10/DSC05940.jpg - exception Message: 
-
-https://www.multiprojekt.pl/wp-content/uploads/2023/10/DSC06093.jpg - exception Message: 
-
-https://www.multiprojekt.pl/wp-content/uploads/2023/10/DSC05839.jpg - exception Message: 
-
-https://www.multiprojekt.pl/wp-content/uploads/2023/10/DSC05970.jpg - exception Message: 
-
-https://www.multiprojekt.pl/wp-content/uploads/2023/10/DSC05885-2.jpg - exception Message: 
-
-https://www.multiprojekt.pl/wp-content/uploads/2023/10/DSC05785.jpg - exception Message: 
-
-https://www.multiprojekt.pl/wp-content/uploads/2023/10/DSC05744.jpg - exception Message: 
-
-https://www.multiprojekt.pl/wp-content/uploads/2023/10/DSC05951.jpg - exception Message: 
-
-https://www.multiprojekt.pl/wp-content/uploads/2023/10/DSC05771.jpg - exception Message: 
-
-https://www.multiprojekt.pl/wp-content/uploads/2023/10/DSC05752.jpg - exception Message: 
-
-https://www.multiprojekt.pl/wp-content/uploads/2023/10/DSC06055.jpg - exception Message: 
-
-https://www.multiprojekt.pl/wp-content/uploads/2023/10/DSC06045.jpg - exception Message: 
-
-https://www.multiprojekt.pl/wp-content/uploads/2023/10/DSC05791-e1698758273646.jpg - exception Message: 
-
-https://www.multiprojekt.pl/wp-content/uploads/2023/10/DSC05732-e1698758287457.jpg - exception Message: 
-
-https://www.multiprojekt.pl/wp-content/uploads/2023/10/DSC05717-e1698758242837.jpg - exception Message: 
-
-https://www.multiprojekt.pl/wp-content/uploads/2023/10/DSC05913.jpg - exception Message: 
-
-https://www.multiprojekt.pl/wp-content/uploads/2023/10/DSC05920.jpg - exception Message: 
-
-https://www.multiprojekt.pl/files/structure/830/221/Estun%20Pn005.1=C.pdf - Status code: 404 - Response - Not Found
-https://www.multiprojekt.pl/ftp/estun_serwonapedy/instrukcje/pronet_plus/ProNet%20Plus%20User%20Manual%20ENG%20V1.05.pdf - Status code: 404 - Response - Not Found
-https://ftp.multiprojekt.pl/estun_serwonapedy/dodatkowe_materialy/noty_aplikacyjne/serwo_modbus.emtpjne/serwo_modbus.emtp - Status code: 404 - Response - Not Found
-exception with https://www.multiprojekt.pl/katalog/pl/kategoria/Bazy-I-O-245#: HTTPSConnectionPool(host='www.multiprojekt.pl', port=443): Read timed out. (read timeout=10)
-exception with https://www.multiprojekt.pl/katalog/pl/kategoria/Cyfrowe-I-O-251#: HTTPSConnectionPool(host='www.multiprojekt.pl', port=443): Read timed out. (read timeout=10)
-exception with https://www.multiprojekt.pl/katalog/pl/kategoria/Analogowe-I-O-252#: HTTPSConnectionPool(host='www.multiprojekt.pl', port=443): Read timed out. (read timeout=10)
-exception with https://www.multiprojekt.pl/katalog/pl/kategoria/Temperaturowe-253#: HTTPSConnectionPool(host='www.multiprojekt.pl', port=443): Read timed out. (read timeout=10)
-exception with https://www.multiprojekt.pl/katalog/pl/kategoria/Specjalne-254#: HTTPSConnectionPool(host='www.multiprojekt.pl', port=443): Read timed out. (read timeout=10)
-https://www.multiprojekt.pl/wp-content/uploads/2022/01/OWS_MP.pdf - exception Message: 
-
-https://www.multiprojekt.pl/wp-content/uploads/2023/10/cMT2128X_Foto2.jpg - exception Message: 
-
-https://www.multiprojekt.pl/wp-content/uploads/2023/10/cMT2128X_Foto3.jpg - exception Message: 
-
-https://www.multiprojekt.pl/wp-content/uploads/2023/10/cMT2128X_Foto4.jpg - exception Message:
-
-------------------------------------------------------------------------------------------------------------------
-        PROBLEM
-        exception with https:// <table id="tablepress-77" class="tablepress tablepress-id-77"> <tbody class="row-hover"> <tr class="row-1 odd"> <td class="column-1">Rozdzielczość wyświetlacza </td><td class="column-2">7*WVA 1024 X 600</td> </tr> <tr class="row-2 even"> <td class="column-1">LCD kąt widzenia </td><td class="column-2">85/85/85/85</td> </tr> <tr class="row-3 odd"> <td class="column-1">Procesor</td><td class="column-2">Quad-core RISC</td> </tr> <tr class="row-4 even"> <td class="column-1">Pamięć Flash/ RAM</td><td class="column-2">4GB/1GB</td> </tr> <tr class="row-5 odd"> <td class="column-1">Ethernet</td><td class="column-2">10/100 Base-T x 2</td> </tr> <tr class="row-6 even"> <td class="column-1">Port COM</td><td class="column-2">Con.A: COM2 RS-485 2W/4W, COM3 RS-485 2W, CAN Bus<br /> Con.B: COM1 RS-232 4W, COM3 RS-232 2W*</td> </tr> <tr class="row-7 odd"> <td class="column-1">MPI</td><td class="column-2">TAK</td> </tr> <tr class="row-8 even"> <td class="column-1">Wymiary Szer. X Wys.xGł.</td><td class="column-2">200,4 X 146,5 X 36,0 MM</td> </tr> <tr class="row-9 odd"> <td class="column-1">Wycięcie montażowe</td><td class="column-2">192 X 138 MM</td> </tr> <tr class="row-10 even"> <td class="column-1">Izolacja zasilania </td><td class="column-2">TAK</td> </tr> <tr class="row-11 odd"> <td class="column-1">Powłoka PCB</td><td class="column-2">TAK</td> </tr> <tr class="row-12 even"> <td class="column-1">Stopień izolacji </td><td class="column-2">NEMA4 / IP66 Panel przedni zgody z przepisami</td> </tr> <tr class="row-13 odd"> <td class="column-1">Obudowa </td><td class="column-2">Aluminium</td> </tr> <tr class="row-14 even"> <td class="column-1">Pobór mocy</td><td class="column-2">24±20% VDC </td> </tr> <tr class="row-15 odd"> <td class="column-1">Waga</td><td class="column-2">Około 0,8 kg </td> </tr> <tr class="row-16 even"> <td class="column-1">Temperatura pracy</td><td class="column-2">-20°C ~ 55°C</td> </tr> <tr class="row-17 odd"> <td class="column-1"><br /> Oprogramowanie</td><td class="column-2">EasyBuilder Pro - V6.07.01 lub później<br /> <br /> Weincloud  Dashboard (Usługi chmurowe) - opcjonalny<br /> EasyAccess 2.0 - opcjonalny<br /> <br /> CODESYS® * - opcjonalny</td> </tr> </tbody> </table> <!-- #tablepress-77 from cache -->: Failed to parse: https:// <table id="tablepress-77" class="tablepress tablepress-id-77"> <tbody class="row-hover"> <tr class="row-1 odd"> <td class="column-1">Rozdzielczość wyświetlacza </td><td class="column-2">7*WVA 1024 X 600</td> </tr> <tr class="row-2 even"> <td class="column-1">LCD kąt widzenia </td><td class="column-2">85/85/85/85</td> </tr> <tr class="row-3 odd"> <td class="column-1">Procesor</td><td class="column-2">Quad-core RISC</td> </tr> <tr class="row-4 even"> <td class="column-1">Pamięć Flash/ RAM</td><td class="column-2">4GB/1GB</td> </tr> <tr class="row-5 odd"> <td class="column-1">Ethernet</td><td class="column-2">10/100 Base-T x 2</td> </tr> <tr class="row-6 even"> <td class="column-1">Port COM</td><td class="column-2">Con.A: COM2 RS-485 2W/4W, COM3 RS-485 2W, CAN Bus<br /> Con.B: COM1 RS-232 4W, COM3 RS-232 2W*</td> </tr> <tr class="row-7 odd"> <td class="column-1">MPI</td><td class="column-2">TAK</td> </tr> <tr class="row-8 even"> <td class="column-1">Wymiary Szer. X Wys.xGł.</td><td class="column-2">200,4 X 146,5 X 36,0 MM</td> </tr> <tr class="row-9 odd"> <td class="column-1">Wycięcie montażowe</td><td class="column-2">192 X 138 MM</td> </tr> <tr class="row-10 even"> <td class="column-1">Izolacja zasilania </td><td class="column-2">TAK</td> </tr> <tr class="row-11 odd"> <td class="column-1">Powłoka PCB</td><td class="column-2">TAK</td> </tr> <tr class="row-12 even"> <td class="column-1">Stopień izolacji </td><td class="column-2">NEMA4 / IP66 Panel przedni zgody z przepisami</td> </tr> <tr class="row-13 odd"> <td class="column-1">Obudowa </td><td class="column-2">Aluminium</td> </tr> <tr class="row-14 even"> <td class="column-1">Pobór mocy</td><td class="column-2">24±20% VDC </td> </tr> <tr class="row-15 odd"> <td class="column-1">Waga</td><td class="column-2">Około 0,8 kg </td> </tr> <tr class="row-16 even"> <td class="column-1">Temperatura pracy</td><td class="column-2">-20°C ~ 55°C</td> </tr> <tr class="row-17 odd"> <td class="column-1"><br /> Oprogramowanie</td><td class="column-2">EasyBuilder Pro - V6.07.01 lub później<br /> <br /> Weincloud  Dashboard (Usługi chmurowe) - opcjonalny<br /> EasyAccess 2.0 - opcjonalny<br /> <br /> CODESYS® * - opcjonalny</td> </tr> </tbody> </table> <!-- #tablepress-77 from cache -->
-Traceback (most recent call last):
-  File "C:\Users\Acer\PycharmProjects\pythonProject\Lib\site-packages\urllib3\util\url.py", line 440, in parse_url
-    host = _normalize_host(host, scheme)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\Acer\PycharmProjects\pythonProject\Lib\site-packages\urllib3\util\url.py", line 326, in _normalize_host
-    b".".join([_idna_encode(label) for label in host.split(".")]),
-               ^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\Acer\PycharmProjects\pythonProject\Lib\site-packages\urllib3\util\url.py", line 344, in _idna_encode
-    raise LocationParseError(
-urllib3.exceptions.LocationParseError: Failed to parse: Name ' <table id="tablepress-77" class="tablepress tablepress-id-77"> <tbody class="row-hover"> <tr class="row-1 odd"> <td class="column-1">Rozdzielczość wyświetlacza <' is not a valid IDNA label
-
-The above exception was the direct cause of the following exception:
-
-Traceback (most recent call last):
-  File "C:\Users\Acer\PycharmProjects\pythonProject\Lib\site-packages\requests\models.py", line 434, in prepare_url
-    scheme, auth, host, port, path, query, fragment = parse_url(url)
-                                                      ^^^^^^^^^^^^^^
-  File "C:\Users\Acer\PycharmProjects\pythonProject\Lib\site-packages\urllib3\util\url.py", line 451, in parse_url
-    raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: https:// <table id="tablepress-77" class="tablepress tablepress-id-77"> <tbody class="row-hover"> <tr class="row-1 odd"> <td class="column-1">Rozdzielczość wyświetlacza </td><td class="column-2">7*WVA 1024 X 600</td> </tr> <tr class="row-2 even"> <td class="column-1">LCD kąt widzenia </td><td class="column-2">85/85/85/85</td> </tr> <tr class="row-3 odd"> <td class="column-1">Procesor</td><td class="column-2">Quad-core RISC</td> </tr> <tr class="row-4 even"> <td class="column-1">Pamięć Flash/ RAM</td><td class="column-2">4GB/1GB</td> </tr> <tr class="row-5 odd"> <td class="column-1">Ethernet</td><td class="column-2">10/100 Base-T x 2</td> </tr> <tr class="row-6 even"> <td class="column-1">Port COM</td><td class="column-2">Con.A: COM2 RS-485 2W/4W, COM3 RS-485 2W, CAN Bus<br /> Con.B: COM1 RS-232 4W, COM3 RS-232 2W*</td> </tr> <tr class="row-7 odd"> <td class="column-1">MPI</td><td class="column-2">TAK</td> </tr> <tr class="row-8 even"> <td class="column-1">Wymiary Szer. X Wys.xGł.</td><td class="column-2">200,4 X 146,5 X 36,0 MM</td> </tr> <tr class="row-9 odd"> <td class="column-1">Wycięcie montażowe</td><td class="column-2">192 X 138 MM</td> </tr> <tr class="row-10 even"> <td class="column-1">Izolacja zasilania </td><td class="column-2">TAK</td> </tr> <tr class="row-11 odd"> <td class="column-1">Powłoka PCB</td><td class="column-2">TAK</td> </tr> <tr class="row-12 even"> <td class="column-1">Stopień izolacji </td><td class="column-2">NEMA4 / IP66 Panel przedni zgody z przepisami</td> </tr> <tr class="row-13 odd"> <td class="column-1">Obudowa </td><td class="column-2">Aluminium</td> </tr> <tr class="row-14 even"> <td class="column-1">Pobór mocy</td><td class="column-2">24±20% VDC </td> </tr> <tr class="row-15 odd"> <td class="column-1">Waga</td><td class="column-2">Około 0,8 kg </td> </tr> <tr class="row-16 even"> <td class="column-1">Temperatura pracy</td><td class="column-2">-20°C ~ 55°C</td> </tr> <tr class="row-17 odd"> <td class="column-1"><br /> Oprogramowanie</td><td class="column-2">EasyBuilder Pro - V6.07.01 lub później<br /> <br /> Weincloud  Dashboard (Usługi chmurowe) - opcjonalny<br /> EasyAccess 2.0 - opcjonalny<br /> <br /> CODESYS® * - opcjonalny</td> </tr> </tbody> </table> <!-- #tablepress-77 from cache -->
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "C:\Users\Acer\PycharmProjects\pythonProject\newAllLinkTester.py", line 54, in checkLinkStatus
-    response = requests.head(url, timeout=10)
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\Acer\PycharmProjects\pythonProject\Lib\site-packages\requests\api.py", line 100, in head
-    return request("head", url, **kwargs)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\Acer\PycharmProjects\pythonProject\Lib\site-packages\requests\api.py", line 59, in request
-    return session.request(method=method, url=url, **kwargs)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\Acer\PycharmProjects\pythonProject\Lib\site-packages\requests\sessions.py", line 575, in request
-    prep = self.prepare_request(req)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\Acer\PycharmProjects\pythonProject\Lib\site-packages\requests\sessions.py", line 486, in prepare_request
-    p.prepare(
-  File "C:\Users\Acer\PycharmProjects\pythonProject\Lib\site-packages\requests\models.py", line 368, in prepare
-    self.prepare_url(url, params)
-  File "C:\Users\Acer\PycharmProjects\pythonProject\Lib\site-packages\requests\models.py", line 436, in prepare_url
-    raise InvalidURL(*e.args)
-requests.exceptions.InvalidURL: Failed to parse: https:// <table id="tablepress-77" class="tablepress tablepress-id-77"> <tbody class="row-hover"> <tr class="row-1 odd"> <td class="column-1">Rozdzielczość wyświetlacza </td><td class="column-2">7*WVA 1024 X 600</td> </tr> <tr class="row-2 even"> <td class="column-1">LCD kąt widzenia </td><td class="column-2">85/85/85/85</td> </tr> <tr class="row-3 odd"> <td class="column-1">Procesor</td><td class="column-2">Quad-core RISC</td> </tr> <tr class="row-4 even"> <td class="column-1">Pamięć Flash/ RAM</td><td class="column-2">4GB/1GB</td> </tr> <tr class="row-5 odd"> <td class="column-1">Ethernet</td><td class="column-2">10/100 Base-T x 2</td> </tr> <tr class="row-6 even"> <td class="column-1">Port COM</td><td class="column-2">Con.A: COM2 RS-485 2W/4W, COM3 RS-485 2W, CAN Bus<br /> Con.B: COM1 RS-232 4W, COM3 RS-232 2W*</td> </tr> <tr class="row-7 odd"> <td class="column-1">MPI</td><td class="column-2">TAK</td> </tr> <tr class="row-8 even"> <td class="column-1">Wymiary Szer. X Wys.xGł.</td><td class="column-2">200,4 X 146,5 X 36,0 MM</td> </tr> <tr class="row-9 odd"> <td class="column-1">Wycięcie montażowe</td><td class="column-2">192 X 138 MM</td> </tr> <tr class="row-10 even"> <td class="column-1">Izolacja zasilania </td><td class="column-2">TAK</td> </tr> <tr class="row-11 odd"> <td class="column-1">Powłoka PCB</td><td class="column-2">TAK</td> </tr> <tr class="row-12 even"> <td class="column-1">Stopień izolacji </td><td class="column-2">NEMA4 / IP66 Panel przedni zgody z przepisami</td> </tr> <tr class="row-13 odd"> <td class="column-1">Obudowa </td><td class="column-2">Aluminium</td> </tr> <tr class="row-14 even"> <td class="column-1">Pobór mocy</td><td class="column-2">24±20% VDC </td> </tr> <tr class="row-15 odd"> <td class="column-1">Waga</td><td class="column-2">Około 0,8 kg </td> </tr> <tr class="row-16 even"> <td class="column-1">Temperatura pracy</td><td class="column-2">-20°C ~ 55°C</td> </tr> <tr class="row-17 odd"> <td class="column-1"><br /> Oprogramowanie</td><td class="column-2">EasyBuilder Pro - V6.07.01 lub później<br /> <br /> Weincloud  Dashboard (Usługi chmurowe) - opcjonalny<br /> EasyAccess 2.0 - opcjonalny<br /> <br /> CODESYS® * - opcjonalny</td> </tr> </tbody> </table> <!-- #tablepress-77 from cache -->
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "C:\Users\Acer\PycharmProjects\pythonProject\newAllLinkTester.py", line 119, in <module>
-    linkTest.ifNotAllLinksChecked()
-  File "C:\Users\Acer\PycharmProjects\pythonProject\newAllLinkTester.py", line 42, in ifNotAllLinksChecked
-    self.checkLinkStatus(url)
-  File "C:\Users\Acer\PycharmProjects\pythonProject\newAllLinkTester.py", line 84, in checkLinkStatus
-    self.log_error(error_message)
-  File "C:\Users\Acer\PycharmProjects\pythonProject\newAllLinkTester.py", line 34, in log_error
-    self.error_file.write(error_message + "\n")
-  File "C:\Users\Acer\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1251.py", line 19, in encode
-    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-UnicodeEncodeError: 'charmap' codec can't encode characters in position 168-169: character maps to <undefined>
-
-Process finished with exit code 1
-
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/komunikacja-przemyslowa/
+exception during finding urls in https://www.multiprojekt.pl/komunikacja-przemyslowa/bramki-protokolow/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/komunikacja-przemyslowa/bramki-protokolow/
+exception during finding urls in https://www.multiprojekt.pl/komunikacja-przemyslowa/teltonika/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/komunikacja-przemyslowa/teltonika/
+exception during finding urls in https://www.multiprojekt.pl/sterowanie/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/sterowanie/
+exception during finding urls in https://www.multiprojekt.pl/sterowanie/panele-operatorskie-hmi/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/sterowanie/panele-operatorskie-hmi/
+exception during finding urls in https://www.multiprojekt.pl/sterowanie/sterowniki-plc/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/sterowanie/sterowniki-plc/
+exception during finding urls in https://www.multiprojekt.pl/sterowanie/sterowniki-ruchu/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/sterowanie/sterowniki-ruchu/
+exception during finding urls in https://www.multiprojekt.pl/sterowanie/systemy-rozproszonych-wejsc-wyjsc/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/sterowanie/systemy-rozproszonych-wejsc-wyjsc/
+exception during finding urls in https://www.multiprojekt.pl/sterowanie/zasilacze/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/sterowanie/zasilacze/
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              exception during finding urls in https://www.multiprojekt.pl/szkolenia/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/szkolenia/
+exception during finding urls in https://www.multiprojekt.pl/wspolpraca-ze-szkolami/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/wspolpraca-ze-szkolami/
+exception during finding urls in https://www.multiprojekt.pl/zestawy-szkoleniowe/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/zestawy-szkoleniowe/
+exception during finding urls in https://www.multiprojekt.pl/faq/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/faq/
+exception during finding urls in https://www.multiprojekt.pl/serwis/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/serwis/
+exception during finding urls in https://www.multiprojekt.pl/blog/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/blog/
+exception during finding urls in https://www.multiprojekt.pl/kontakt-krakow/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/kontakt-krakow/
+exception during finding urls in https://www.multiprojekt.pl/promocja-hmi-weintek-cmt2000x/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/promocja-hmi-weintek-cmt2000x/
+exception during finding urls in https://www.multiprojekt.pl/automatyka/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/automatyka/
+exception during finding urls in https://www.multiprojekt.pl/mechanika/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/mechanika/
+exception during finding urls in https://www.multiprojekt.pl/mechanika/detale-cnc/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/mechanika/detale-cnc/
+exception during finding urls in https://www.multiprojekt.pl/oprogramowanie/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/oprogramowanie/
+exception during finding urls in https://www.multiprojekt.pl/szkolenia/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/szkolenia/
+exception during finding urls in https://www.multiprojekt.pl/2023/08/14/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/2023/08/14/
+exception during finding urls in https://www.multiprojekt.pl/roboty-kognitywne-w-przemysle/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/roboty-kognitywne-w-przemysle/
+exception during finding urls in https://www.multiprojekt.pl/2023/06/27/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/2023/06/27/
+exception during finding urls in https://www.multiprojekt.pl/najlepszy-partner-edukacyjny-2023/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/najlepszy-partner-edukacyjny-2023/
+exception during finding urls in https://www.multiprojekt.pl/2023/06/19/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/2023/06/19/
+exception during finding urls in https://www.multiprojekt.pl/multiprojekt-otrzymal-nagrode-diamentow-forbesa-2023/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/multiprojekt-otrzymal-nagrode-diamentow-forbesa-2023/
+exception during finding urls in https://www.multiprojekt.pl/2023/11/28/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/2023/11/28/
+exception during finding urls in https://www.multiprojekt.pl/z-nowa-wiedza-powracamy-z-miedzynarodowych-targow-smart-production-solutions-2023/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/z-nowa-wiedza-powracamy-z-miedzynarodowych-targow-smart-production-solutions-2023/
+exception during finding urls in https://www.multiprojekt.pl/2023/11/20/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/2023/11/20/
+exception during finding urls in https://www.multiprojekt.pl/optymalizacja-fotowoltaiki-za-pomoca-sterownika-firmy-edap-i-panelu-hmi-weintek/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/optymalizacja-fotowoltaiki-za-pomoca-sterownika-firmy-edap-i-panelu-hmi-weintek/
+exception during finding urls in https://www.multiprojekt.pl/2023/10/31/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/2023/10/31/
+exception during finding urls in https://www.multiprojekt.pl/podsumowanie-targow-przemyslowych-warsaw-industry-week-2023/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/podsumowanie-targow-przemyslowych-warsaw-industry-week-2023/
+exception during finding urls in https://www.multiprojekt.pl/o-nas/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/o-nas/
+exception during finding urls in https://www.multiprojekt.pl/2020/07/06/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/2020/07/06/
+exception during finding urls in https://www.multiprojekt.pl/kurs-trio-motion-cz-iv-2/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/kurs-trio-motion-cz-iv-2/
+exception during finding urls in https://www.multiprojekt.pl/kurs-trio-motion-cz-iii-2/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/kurs-trio-motion-cz-iii-2/
+exception during finding urls in https://www.multiprojekt.pl/kurs-programowania-paneli-weintek-cz-viii/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/kurs-programowania-paneli-weintek-cz-viii/
+exception during finding urls in https://www.multiprojekt.pl/2023/01/20/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/2023/01/20/
+exception during finding urls in https://www.multiprojekt.pl/roboty-przemyslowe/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/roboty-przemyslowe/
+exception during finding urls in https://www.multiprojekt.pl/kurs-trio-motion-cz-v/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/kurs-trio-motion-cz-v/
+exception during finding urls in https://www.multiprojekt.pl/estun-pierwsze-uruchomienie-cz-vi-2/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/estun-pierwsze-uruchomienie-cz-vi-2/
+https://copleycontrols.com/en/ - status - 403, problem during checkLinkStatus, parent is https://copleycontrols.com/en/
+/globalw/ exception: Invalid URL '/globalw/': No scheme supplied. Perhaps you meant https:///globalw/?, parent is /globalw/
+https://www.estuneurope.eu/ exception: HTTPSConnectionPool(host='www.estuneurope.eu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)'))), parent is https://www.multiprojekt.pl
+exception during finding urls in https://www.multiprojekt.pl/regulaminy/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/regulaminy/
+exception during finding urls in https://www.multiprojekt.pl/katalog/pl/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/katalog/pl/
+exception during finding urls in https://www.multiprojekt.pl/katalog/pl/kategoria/Panele-HMI-WEINTEK-47: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/katalog/pl/kategoria/Panele-HMI-WEINTEK-47
+exception during finding urls in https://www.multiprojekt.pl/katalog/pl/kategoria/HMI-222: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/katalog/pl/kategoria/HMI-222
+exception during finding urls in https://www.multiprojekt.pl/katalog/pl/kategoria/HMI-z-ekranem-411: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/katalog/pl/kategoria/HMI-z-ekranem-411
+exception during finding urls in https://www.multiprojekt.pl/katalog/pl/kategoria/cMTX-69: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/katalog/pl/kategoria/cMTX-69
+exception during finding urls in https://www.multiprojekt.pl/katalog/pl/kategoria/cMT3000X-225: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/katalog/pl/kategoria/cMT3000X-225
+exception during finding urls in https://www.multiprojekt.pl/katalog/pl/kategoria/cMT2000X-224: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/katalog/pl/kategoria/cMT2000X-224
+exception during finding urls in https://www.multiprojekt.pl/katalog/pl/kategoria/cMT1000X-223: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/katalog/pl/kategoria/cMT1000X-223
+exception during finding urls in https://www.multiprojekt.pl/katalog/pl/kategoria/MT8000iE-228: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/katalog/pl/kategoria/MT8000iE-228
+exception during finding urls in https://www.multiprojekt.pl/katalog/pl/kategoria/MT8000iP-129: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/katalog/pl/kategoria/MT8000iP-129
+exception during finding urls in https://www.multiprojekt.pl/katalog/pl/kategoria/cMT-227: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/katalog/pl/kategoria/cMT-227
+exception during finding urls in https://www.multiprojekt.pl/katalog/pl/kategoria/cMT3000-237: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/katalog/pl/kategoria/cMT3000-237
+exception during finding urls in https://www.multiprojekt.pl/katalog/pl/kategoria/Komputery-przemyslowe-238: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/katalog/pl/kategoria/Komputery-przemyslowe-238
+exception during finding urls in https://www.multiprojekt.pl/katalog/pl/kategoria/Ekrany-Monitory-239: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/katalog/pl/kategoria/Ekrany-Monitory-239
+exception during finding urls in https://www.multiprojekt.pl/katalog/pl/kategoria/eMT3000-229: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/katalog/pl/kategoria/eMT3000-229
+exception during finding urls in https://www.multiprojekt.pl/katalog/pl/kategoria/HMI-bez-ekranu-410: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/katalog/pl/kategoria/HMI-bez-ekranu-410
+exception during finding urls in https://www.multiprojekt.pl/katalog/pl/kategoria/cMTX-226: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/katalog/pl/kategoria/cMTX-226
+exception during finding urls in https://www.multiprojekt.pl/katalog/pl/kategoria/cMT-236: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/katalog/pl/kategoria/cMT-236
+exception during finding urls in https://www.multiprojekt.pl/katalog/pl/kategoria/mTV-240: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/katalog/pl/kategoria/mTV-240
+exception during finding urls in https://www.multiprojekt.pl/katalog/pl/kategoria/Licencje-132: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/katalog/pl/kategoria/Licencje-132
+exception during finding urls in https://www.multiprojekt.pl/katalog/pl/kategoria/Akcesoria-133: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/katalog/pl/kategoria/Akcesoria-133
+exception during finding urls in https://www.multiprojekt.pl/katalog/pl/kategoria/Moduly-rozszerzen-256: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/katalog/pl/kategoria/Moduly-rozszerzen-256
+exception during finding urls in https://www.multiprojekt.pl/katalog/pl/kategoria/Kable-komunikacyjne-do-PLC-Fatek-306: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/katalog/pl/kategoria/Kable-komunikacyjne-do-PLC-Fatek-306
+exception during finding urls in https://www.multiprojekt.pl/katalog/pl/kategoria/Kable-komunikacyjne-241: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/katalog/pl/kategoria/Kable-komunikacyjne-241
+exception during finding urls in https://www.multiprojekt.pl/katalog/pl/kategoria/Folie-242: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/katalog/pl/kategoria/Folie-242
+exception during finding urls in https://www.multiprojekt.pl/katalog/pl/kategoria/Pozostale-243: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/katalog/pl/kategoria/Pozostale-243
+exception during finding urls in https://www.multiprojekt.pl/katalog/pl/kategoria/Systemy-rozproszone-I-O-WEINTEK-131: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/katalog/pl/kategoria/Systemy-rozproszone-I-O-WEINTEK-131
+exception during finding urls in https://www.multiprojekt.pl/katalog/pl/kategoria/Sterownik-PLC-244: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/katalog/pl/kategoria/Sterownik-PLC-244
+exception during finding urls in https://www.multiprojekt.pl/katalog/pl/kategoria/Bazy-I-O-245: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/katalog/pl/kategoria/Bazy-I-O-245
+exception during finding urls in https://www.multiprojekt.pl/katalog/pl/kategoria/Moduly-I-O-246: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/katalog/pl/kategoria/Moduly-I-O-246
+exception during finding urls in https://www.multiprojekt.pl/katalog/pl/kategoria/Cyfrowe-I-O-251: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/katalog/pl/kategoria/Cyfrowe-I-O-251
+exception during finding urls in https://www.multiprojekt.pl/katalog/pl/kategoria/Analogowe-I-O-252: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/katalog/pl/kategoria/Analogowe-I-O-252
+exception during finding urls in https://www.multiprojekt.pl/katalog/pl/kategoria/Temperaturowe-253: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/katalog/pl/kategoria/Temperaturowe-253
+exception during finding urls in https://www.multiprojekt.pl/katalog/pl/kategoria/Specjalne-254: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/katalog/pl/kategoria/Specjalne-254
+exception during finding urls in https://www.multiprojekt.pl/katalog/pl/kategoria/Bramki-protokolow-WEINTEK-130: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/katalog/pl/kategoria/Bramki-protokolow-WEINTEK-130
+exception during finding urls in https://www.multiprojekt.pl/katalog/pl/zapytanie-ofertowe: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/katalog/pl/zapytanie-ofertowe
+exception during finding urls in https://www.multiprojekt.pl/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/
+exception during finding urls in https://www.multiprojekt.pl/ogolne-warunki-sprzedazy/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/ogolne-warunki-sprzedazy/
+exception during finding urls in https://www.multiprojekt.pl/polityka-prywatnosci/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.200)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7264682B2+55298]
+	(No symbol) [0x00007FF7263D5E02]
+	(No symbol) [0x00007FF7262905AB]
+	(No symbol) [0x00007FF726270038]
+	(No symbol) [0x00007FF7262F6BC7]
+	(No symbol) [0x00007FF72630A15F]
+	(No symbol) [0x00007FF7262F1E83]
+	(No symbol) [0x00007FF7262C670A]
+	(No symbol) [0x00007FF7262C7964]
+	GetHandleVerifier [0x00007FF7267E0AAB+3694587]
+	GetHandleVerifier [0x00007FF72683728E+4048862]
+	GetHandleVerifier [0x00007FF72682F173+4015811]
+	GetHandleVerifier [0x00007FF7265047D6+695590]
+	(No symbol) [0x00007FF7263E0CE8]
+	(No symbol) [0x00007FF7263DCF34]
+	(No symbol) [0x00007FF7263DD062]
+	(No symbol) [0x00007FF7263CD3A3]
+	BaseThreadInitThunk [0x00007FFD59617344+20]
+	RtlUserThreadStart [0x00007FFD5B3426B1+33]
+, parent is https://www.multiprojekt.pl/polityka-prywatnosci/
